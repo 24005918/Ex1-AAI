@@ -125,6 +125,10 @@ print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGus
 <img width="1757" height="677" alt="image" src="https://github.com/user-attachments/assets/8782635d-b6d6-4a8c-9672-b6a34e000070" />
 
 
+
+
+
+
 ## Result:
    Thus a Bayesian Network is generated using Python
 

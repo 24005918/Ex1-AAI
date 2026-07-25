@@ -1,7 +1,9 @@
 <H3> Name : SANTHOSH V</H3>
 <H3>Register No. : 212224230252</H3>
-<H3> Experiment 1</H3>
 <H3>DATE: 25-07-2026</H3>
+
+<H3> EXPERIMENT 1 1</H3>
+
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
@@ -25,7 +27,7 @@ Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-
+```
 pip install pybbn
 
 
@@ -105,7 +107,10 @@ plt.show()
 print(probs(df, child='Humidity9amCat'))
 print(probs(df, child='Humidity3pmCat', parent1='Humidity9amCat'))
 print(probs(df, child='WindGustSpeedCat'))
-print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGustSpeedCat'))## Output:
+print(probs(df, child='RainTomorrow', parent1='Humidity3pmCat', parent2='WindGustSpeedCat'))
+```
+
+## Output:
 # Variable bands:
 
 <img width="1016" height="875" alt="image" src="https://github.com/user-attachments/assets/bac7f5f6-dc72-4b5c-8aae-4960c9563b48" />

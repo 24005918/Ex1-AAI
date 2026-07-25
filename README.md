@@ -2,7 +2,7 @@
 <H3>Register No. : 212224230252</H3>
 <H3>DATE: 25-07-2026</H3>
 
-<H3> EXPERIMENT 1 1</H3>
+<H3> EXPERIMENT 1</H3>
 
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
